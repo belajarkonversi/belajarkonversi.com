@@ -1,4 +1,4 @@
-baseURL: http://belajarkonversi.netlify.app
+baseURL: http://belajarkonversi.com
 languageCode: en-us
 title: Belajar Konversi
 
@@ -16,7 +16,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Belajar Konversi | Maksimalkan potensi traffic situsmu
-    description: "ExampleSite description"
+    description: "Tempat belajar memaksimalkan potensi traffic situs menjadi konsumen"
     keywords: [Blog, Portfolio, PaperMod]
     author: Dimas Ibrahim
     # author: ["Me", "You"] # multiple authors
@@ -70,7 +70,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Optimalkan Potensi Trafficmu"
-        Content: Welcome to my blog
+        Content: 
 
     socialIcons:
         - name: twitter

@@ -105,16 +105,6 @@ body:not(.dark) #sun {
 
 
 .donate {
-  }
-
-.donate:after {
-	content: '';
-	display: block;
-	height: 4px;
-	animation: underline 2s infinite;
-    margin-top: -22px;
-}
-@keyframes underline {
-  0% { width: 0%; background-color: rgb(123, 110, 238);}
-  100% {width: 100%; background-color: transparent;}
+  text-decoration: underline;
+    font-weight: 400;
 }
