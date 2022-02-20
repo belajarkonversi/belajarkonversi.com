@@ -12,6 +12,13 @@
     display: block;
 }
 
+.header {
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    background: var(--code-bg);
+}
+
 .logo,
 #menu {
     display: flex;
@@ -95,3 +102,46 @@ body:not(.dark) #sun {
 .logo-switches {
     flex-wrap: inherit;
 }
+
+
+.donate {
+    display: block;
+    width: 150px;
+    height: 40px;
+    font-size: 14px;
+    color: #fff;
+    background-color: #69A551;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+    margin: auto;
+    font-weight: bold;
+    -webkit-animation: btnWiggle 5s infinite;
+    -moz-animation: btnWiggle 5s infinite;
+    -o-animation: btnWiggle 5s infinite;
+    animation: btnWiggle 5s infinite;
+  }
+  
+  /* animation */
+  @-webkit-keyframes btnWiggle {
+      0% {-webkit-transform: rotate(0deg);}
+      2% {-webkit-transform: rotate(-2deg);}
+      3.5% {-webkit-transform: rotate(2deg);}
+      5% {-webkit-transform: rotate(0deg);}
+      100% {-webkit-transform: rotate(0deg);}
+  }
+  @-o-keyframes btnWiggle {
+      0% {-webkit-transform: rotate(0deg);}
+      2% {-webkit-transform: rotate(-1deg);}
+      3.5% {-webkit-transform: rotate(1deg);}
+      5% {-webkit-transform: rotate(0deg);}
+      100% {-webkit-transform: rotate(0deg);}
+  }
+  @keyframes btnWiggle {
+      0% {-webkit-transform: rotate(0deg);}
+      2% {-webkit-transform: rotate(-1deg);}
+      3.5% {-webkit-transform: rotate(1deg);}
+      5% {-webkit-transform: rotate(0deg);}
+      100% {-webkit-transform: rotate(0deg);}
+  }
