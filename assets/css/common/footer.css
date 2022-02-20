@@ -4,6 +4,11 @@
     color: var(--secondary);
 }
 
+.list>
+.top-link {
+    display: none;
+}
+
 .footer {
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
