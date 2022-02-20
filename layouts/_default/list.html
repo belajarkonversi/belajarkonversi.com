@@ -57,7 +57,7 @@
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h2>
   </header>
-  <p>{{- .Param "Description" }}</p>
+  <section class="entry-content"><p>{{- .Param "Description" }}</p></section>
   {{- if not (.Param "hideMeta") }}
   <footer class="entry-footer">
     {{- partial "post_meta.html" . -}}

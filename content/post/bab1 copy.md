@@ -1,5 +1,5 @@
 ---
-title: "Cara manusia berpikir dalam mengambil tindakan"
+title: "bab 2 Cara manusia berpikir dalam mengambil tindakan"
 date: 2020-09-15T11:30:03+00:00
 author: "Dimas Ibrahim"
 showToc: true
