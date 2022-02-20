@@ -65,6 +65,7 @@ body:not(.dark) #sun {
     word-break: keep-all;
     overflow-x: auto;
     white-space: nowrap;
+    overflow: hidden;
 }
 
 #menu li + li {
@@ -114,22 +115,22 @@ body:not(.dark) #sun {
 
 @-webkit-keyframes btnWiggle {
 	0% {-webkit-transform: rotate(0deg);}
-	2% {-webkit-transform: rotate(-2deg);}
-	3.5% {-webkit-transform: rotate(2deg);}
+	2% {-webkit-transform: rotate(-5deg);}
+	3.5% {-webkit-transform: rotate(5deg);}
 	5% {-webkit-transform: rotate(0deg);}
 	100% {-webkit-transform: rotate(0deg);}
 }
 @-o-keyframes btnWiggle {
 	0% {-webkit-transform: rotate(0deg);}
-	2% {-webkit-transform: rotate(-2deg);}
-	3.5% {-webkit-transform: rotate(2deg);}
+	2% {-webkit-transform: rotate(-5deg);}
+	3.5% {-webkit-transform: rotate(5deg);}
 	5% {-webkit-transform: rotate(0deg);}
 	100% {-webkit-transform: rotate(0deg);}
 }
 @keyframes btnWiggle {
 	0% {-webkit-transform: rotate(0deg);}
-	2% {-webkit-transform: rotate(-2deg);}
-	3.5% {-webkit-transform: rotate(2deg);}
+	2% {-webkit-transform: rotate(-5deg);}
+	3.5% {-webkit-transform: rotate(5deg);}
 	5% {-webkit-transform: rotate(0deg);}
 	100% {-webkit-transform: rotate(0deg);}
 }

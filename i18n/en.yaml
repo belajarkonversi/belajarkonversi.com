@@ -1,13 +1,13 @@
 - id: prev_page
-  translation: "Prev Page"
+  translation: "Sebelumnya"
 
 - id: next_page
-  translation: "Next Page"
+  translation: "Selanjutnya"
 
 - id: read_time
   translation:
-    one : "1 min"
-    other: "{{ .Count }} min"
+    one : "1 menit"
+    other: "{{ .Count }} menit"
 
 - id: words
   translation:
@@ -15,10 +15,10 @@
     other: "{{ .Count }} words"
 
 - id: toc
-  translation: "Table of Contents"
+  translation: "Daftar Isi"
 
 - id: translations
-  translation: "Translations"
+  translation: "Terjemahan"
 
 - id: home
   translation: "Home"
@@ -31,3 +31,6 @@
 
 - id: code_copied
   translation: "copied!"
+
+
+

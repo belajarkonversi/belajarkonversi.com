@@ -1,11 +1,12 @@
 baseURL: http://belajarkonversi.com
-languageCode: en-us
+languageCode: id-ID
 title: Belajar Konversi
 
-enableRobotsTXT: true
+enableRobotsTXT: false
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+paginate: 5
 
 googleAnalytics: UA-123-45
 
