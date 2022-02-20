@@ -1,22 +1,18 @@
 ---
-title: "My 1st post"
+title: "Cara manusia berpikir dalam mengambil tindakan"
 date: 2020-09-15T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
 author: "Dimas Ibrahim"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
-hidemeta: false
+hidemeta: true
 comments: false
-description: "Desc Text."
+description: "asik saisjasdlk asdunwd asdiunasdljkn"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-hideSummary: true
+hideSummary: false
 searchHidden: true
 ShowReadingTime: false
 ShowBreadCrumbs: false
@@ -28,4 +24,4 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-asdasdasdasdasdasd
+cara manusia berpikir bentintak dan lain lain sdsdas asdasdasd
