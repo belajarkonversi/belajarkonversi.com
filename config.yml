@@ -113,7 +113,7 @@ menu:
     main:
         - identifier: Dukung Penulis
           name: Dukung Penulis
-          url: https://example.org
+          url: https://saweria.co/belajarkonversi
           weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
