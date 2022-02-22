@@ -3,7 +3,7 @@ title: "Iniyangke4ke1pakewight"
 date: 2022-02-22T05:47:29+07:00
 weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: []
 author: "Dimas Ibrahim"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -18,9 +18,9 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
@@ -32,3 +32,4 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+apaan sih ni ganjuk 
