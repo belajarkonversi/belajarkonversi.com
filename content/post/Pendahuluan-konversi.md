@@ -31,11 +31,11 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-**Apa itu konversi?**
+## **Apa itu konversi?**
 
 menurut KBBI konversi adalah perubahan dari satu bentuk (rupa, dan sebagainya) ke bentuk (rupa, dan sebagainya) yang lain. didalam topik pembahasan ini konversi diartikan Pengunjung situs menjadi pembeli atau prospek dan mungkin banyak hal lainnya. sebuah konversi tidak selalu dikaitkan dengan pembelian, bisa saja untuk mendapatkan data konsumen atau bahkan sekedar memindahkan user dari halaman A menuju halaman B. 
 
-**Apa saja yang mempengaruhi konversi user?**
+## **Apa saja yang mempengaruhi konversi user?**
 
 Tingkat konversi tergantung banyak faktor antara lain:
 
@@ -46,14 +46,14 @@ Tingkat konversi tergantung banyak faktor antara lain:
 - **Copywriting.** Kata-kata yang Anda katakan dan bagaimana Anda mengatakannya sehingga produk anda dikenal dan dipersepsikan.
 - **Design, user experience and usability.**
 
-**Tingkatan Piramida Konversi** 
+## **Tingkatan Piramida Konversi** 
 
 Dalam meningkatkan konversi ada beberapa tingkatan yang bisa dilalui. Anda harus mulai dari yang paling bawah, jika situs anda tidak berfunsi atau tidak bisa diakses maka akan percuma saja anda memikirkan taktik untuk di tingkatan berikutnya.
 
-![Piramida konversi](https://belajarkonversi.com/images/piramida-konversi.png)
+![Piramida konversi](https://belajarkonversi.com/images/piramida-konversi.png#center)
 
 1. **Functional**. situs anda harus dapat digunakan, ketika user berinteraksi tidak ada error yang menyebabkan user berhenti
-2. **Accessible.** User harus dapat mengaksesnya, baik di smartphone, tablet atau desktop. saat ini accessible juga memperhatikan untuk yang memiliki buta warna atau bahkan menyediakan perintah suara agar menjangkau semua yang membutuhkannya. untuk teknis bagaimana membuat situs yang ramah diakses anda bisa melihat di [web accessibility checklist](http://a11yproject.com/checklist.html). jika ini terlalu rumit anda buka situs anda dan pastikan seluruh link dapat ditemukan, atau tombol bisa diklik tanpa dihalangi komponen lain dan oleh ukuran jempol sebesar apapun. jempol tangan yah!
+2. **Accessible.** User harus dapat mengaksesnya, baik di smartphone, tablet atau desktop. untuk teknis bagaimana membuat situs yang ramah diakses anda bisa melihat di [web accessibility checklist](http://a11yproject.com/checklist.html). jika ini terlalu rumit anda buka situs anda dan pastikan seluruh link dapat ditemukan, atau tombol bisa diklik tanpa terhalangi komponen lain dan bisa diklik oleh ukuran jempol sebesar apapun. jempol tangan yah!
 3. **Usable.** situs yang user friendly dan cepat. Apakah penggunakaan bahasa atau icon mudah dipahami oleh user anda. contoh ketika user anda ingin membeli produk anda, secepat apakah user menemukan tombol yang harus diklik? apakah penggunaan kata yang membingungkan? atau user harus melakukan scrolling jauh untuk menemukannya?
 4. **Intuitive.** dalam proses bertraksaksi user pasti memiliki hambatan entah masih ragu atau memiliki pertanyaan terkait produk. apakah situs anda sudah memiliki informasi yang cukup untuk calon pembeli anda dan apakah calon pembeli dapat menghubungi anda?
 5. **Persuasive.** Apakah user memahami yang anda tawarkan? bagaimana anda membujuk kosumen anda? bagaimana produk anda selalu diingat? bagaimana produk anda dipersepsikan?
