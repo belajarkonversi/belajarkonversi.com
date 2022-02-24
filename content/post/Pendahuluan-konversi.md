@@ -11,7 +11,7 @@ draft: false
 hidemeta: true
 comments: false
 description: "Memahami definisi konversi dan yang akan ada pelajari belajarkonversi.com"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: " "
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -53,7 +53,7 @@ Dalam meningkatkan konversi ada beberapa tingkatan yang bisa dilalui. Anda harus
 ![Piramida konversi](https://belajarkonversi.com/images/piramida-konversi.png#center)
 
 1. **Functional**. situs anda harus dapat digunakan, ketika user berinteraksi tidak ada error yang menyebabkan user berhenti
-2. **Accessible.** User harus dapat mengaksesnya, baik di smartphone, tablet atau desktop. untuk teknis bagaimana membuat situs yang ramah diakses anda bisa melihat di [web accessibility checklist](http://a11yproject.com/checklist.html). jika ini terlalu rumit anda buka situs anda dan pastikan seluruh link dapat ditemukan, atau tombol bisa diklik tanpa terhalangi komponen lain dan bisa diklik oleh ukuran jempol sebesar apapun. jempol tangan yah!
+2. **Accessible.** User harus dapat mengaksesnya, baik di smartphone, tablet atau desktop. untuk teknis bagaimana membuat situs yang ramah diakses anda bisa melihat di [web accessibility checklist](https://a11yproject.com/checklist.html). jika ini terlalu rumit anda buka situs anda dan pastikan seluruh link dapat ditemukan, atau tombol bisa diklik tanpa terhalangi komponen lain dan bisa diklik oleh ukuran jempol sebesar apapun. jempol tangan yah!
 3. **Usable.** situs yang user friendly dan cepat. Apakah penggunakaan bahasa atau icon mudah dipahami oleh user anda. contoh ketika user anda ingin membeli produk anda, secepat apakah user menemukan tombol yang harus diklik? apakah penggunaan kata yang membingungkan? atau user harus melakukan scrolling jauh untuk menemukannya?
 4. **Intuitive.** dalam proses bertraksaksi user pasti memiliki hambatan entah masih ragu atau memiliki pertanyaan terkait produk. apakah situs anda sudah memiliki informasi yang cukup untuk calon pembeli anda dan apakah calon pembeli dapat menghubungi anda?
 5. **Persuasive.** Apakah user memahami yang anda tawarkan? bagaimana anda membujuk kosumen anda? bagaimana produk anda selalu diingat? bagaimana produk anda dipersepsikan?
