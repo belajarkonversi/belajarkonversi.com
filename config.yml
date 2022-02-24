@@ -2,7 +2,7 @@ baseURL: http://belajarkonversi.com
 languageCode: id-ID
 title: Belajar Konversi
 
-enableRobotsTXT: false
+enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -83,7 +83,7 @@ params:
 
     analytics:
         google:
-            SiteVerificationTag: "XYZabc"
+            SiteVerificationTag: "G-SGEE08XR7D"
         bing:
             SiteVerificationTag: "XYZabc"
         yandex:
