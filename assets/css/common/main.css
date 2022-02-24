@@ -62,9 +62,6 @@ pre {
     font-size: 14px;
     user-select: none;
 }
-img {
-    margin:auto;
-}
 
 div.highlight:hover .copy-code,
 pre:hover .copy-code {

@@ -90,13 +90,15 @@
   {{- if $i }}, {{end -}}
   {
     "@type": "Person",
-    "name": {{ $v }}
+    "name": {{ $v }},
+    "url": "dimas-ibrahim.github.io"
   }
   {{- end }}],
     {{- else -}}
   {
     "@type": "Person",
-    "name": {{ . }}
+    "name": {{ . }},
+    "url": "dimas-ibrahim.github.io"
   },
     {{- end -}}
   {{- end }}
