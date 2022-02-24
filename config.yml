@@ -8,7 +8,7 @@ buildFuture: false
 buildExpired: false
 paginate: 5
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-SGEE08XR7D
 
 minify:
     disableXML: true
