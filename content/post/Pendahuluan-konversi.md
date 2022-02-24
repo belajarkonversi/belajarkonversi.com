@@ -48,7 +48,7 @@ Tingkat konversi tergantung banyak faktor antara lain:
 
 **Tingkatan Piramida Konversi** 
 
-Dalam meningkatkan konversi ada beberapa tingkatan yang bisa dilalui, anda harus mulai dari yang paling bawah jika situs anda tidak berfunsi atau tidak bisa diakses maka akan percuma saja anda memikirkan taktik untuk di tingkatan berikutnya.
+Dalam meningkatkan konversi ada beberapa tingkatan yang bisa dilalui. Anda harus mulai dari yang paling bawah, jika situs anda tidak berfunsi atau tidak bisa diakses maka akan percuma saja anda memikirkan taktik untuk di tingkatan berikutnya.
 
 ![Piramida konversi](https://belajarkonversi.com/images/piramida-konversi.png)
 
