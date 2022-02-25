@@ -68,7 +68,6 @@ pre:hover .copy-code {
     display: block;
 }
 
-.disqus-container {
-    padding: 10px;
-    background: var(--code-bg);
+.disqus_thread{
+    
 }

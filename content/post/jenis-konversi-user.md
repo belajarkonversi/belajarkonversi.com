@@ -20,9 +20,6 @@ searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
-disqus_identifier : 2
-disqus_title : "jenis konversi user"
-disqus_url : "https://www.belajarkonversi.com/post/jenis-konversi-user/"
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
