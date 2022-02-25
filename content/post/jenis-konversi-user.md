@@ -31,6 +31,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+<br><br>
 
 Secara definisi konversi, konversi adalah perubahan dari satu bentuk (rupa, dan sebagainya) ke bentuk (rupa, dan sebagainya) yang lain. konversi user bisa berupa banyak bentuk dengan tujuan yang berbeda pula. Secara umum konversi user menjadi 4 tahap.
 
