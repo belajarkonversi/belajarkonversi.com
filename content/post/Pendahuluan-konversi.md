@@ -1,7 +1,7 @@
 ---
-title: "Pendahuluan Konversi"
+title: "Pendahuluan Konversi User"
 date: 2022-02-24T06:55:25+07:00
-# weight: 1
+weight: 1
 # aliases: ["/first"]
 author: "Dimas Ibrahim"
 # author: ["Me", "You"] # multiple authors

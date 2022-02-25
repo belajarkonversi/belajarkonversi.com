@@ -11,14 +11,14 @@ draft: false
 hidemeta: true
 comments: false
 description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: " "
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
-ShowBreadCrumbs: true
+ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
     image: "<image path/url>" # image path/url
@@ -31,3 +31,4 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
