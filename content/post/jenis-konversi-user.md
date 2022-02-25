@@ -9,7 +9,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: true
-comments: false
+comments: true
 description: "Setiap jenis konversi user pasti memiliki tujuan, kenali jenis konversi dan bagaimana mengukurnya"
 canonicalURL: " "
 disableHLJS: true # to disable highlightjs
