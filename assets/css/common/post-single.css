@@ -259,9 +259,9 @@
 }
 
 .toc {
-    margin: 0 2px 40px 2px;
+    margin: 0 2px 0px 2px;
     border: 1px solid var(--border);
-    background: var(--code-bg);
+    background: var(--entry);
     border-radius: var(--radius);
     padding: 0.4em;
 }
@@ -277,6 +277,10 @@
 
 .toc details[open] summary {
     cursor: zoom-out;
+}
+
+.toc-font strong{
+    font-weight: 400;
 }
 
 .toc .details {
