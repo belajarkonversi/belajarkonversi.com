@@ -9,6 +9,7 @@ buildExpired: false
 paginate: 5
 
 googleAnalytics: G-SGEE08XR7D
+disqusShortname: belajarkonversiS
 
 minify:
     disableXML: true

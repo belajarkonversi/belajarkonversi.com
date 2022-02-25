@@ -9,7 +9,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: true
-comments: false
+comments: true
 description: "Memahami definisi konversi dan yang akan ada pelajari belajarkonversi.com"
 canonicalURL: " "
 disableHLJS: true # to disable highlightjs
@@ -39,7 +39,7 @@ menurut KBBI konversi adalah perubahan dari satu bentuk (rupa, dan sebagainya) k
 
 Tingkat konversi tergantung banyak faktor antara lain:
 
-- **Relevansi** antara pengunjung dengan produk/service. jumlah traffic yang besar menjadi tidak berarti jika tidak ada relevansi dengan produk/service anda. bayangkan anda berjualan peci/kopiah diacara konser dangdut walaupun orang lalu lalang banyak namun yang membeli sedikit. dikeesokan harinya anda berjualan di acara pengajian walaupun jumlah orangnya lebih sedikit daripada konser dangdut namun jumlah transaksi
+- **Relevansi** antara pengunjung dengan produk/service. jumlah traffic yang besar menjadi tidak berarti jika tidak ada relevansi dengan produk/service anda. bayangkan anda berjualan peci/kopiah diacara konser dangdut walaupun orang lalu lalang banyak namun yang membeli sedikit. dikeesokan harinya anda berjualan di acara pengajian walaupun jumlah orangnya lebih sedikit daripada konser dangdut namun jumlah transaksi lebih banyak.
 - **Relationship** dengan Pengunjung, apakah pengunjung situs sudah mengenali dan mempercayai anda, jika belum. akan sangat sulit untuk menciptakan konversi. anda dapat menciptakan relationship di jalur jalur marketing anda, sesekali anda pastikan apakah iklan/content yang digunakan terdapat komunikasi untuk menciptakan hubungan dengan pengunjung.
 - **Harga.** Semakin murah yang ditawarkan semakin tinggi konversi namun tentu saja hal ini harus dihindari jika tidak mau ke medan perang harga.
 - **Perbandingan harga/nilai.** bisa saja harga produk/jasa anda lebih mahal daripada kompetitor namun ketika anda bisa memberikan nilai lebih kedalam produk/jasa, itu dapat menciptakan persaingan didalam kompetisi konsumen. nilai dalam sebuah produk menjadi sangat penting tetapi nilai itu bersifat abstrak. manusia mempunyai perbedaan dalam proses menilai.
@@ -58,4 +58,4 @@ Dalam meningkatkan konversi ada beberapa tingkatan yang bisa dilalui. Anda harus
 4. **Intuitive.** dalam proses bertraksaksi user pasti memiliki hambatan entah masih ragu atau memiliki pertanyaan terkait produk. apakah situs anda sudah memiliki informasi yang cukup untuk calon pembeli anda dan apakah calon pembeli dapat menghubungi anda?
 5. **Persuasive.** Apakah user memahami yang anda tawarkan? bagaimana anda membujuk kosumen anda? bagaimana produk anda selalu diingat? bagaimana produk anda dipersepsikan?
 
-di [belajarkonversi.com](http://belajarkonversi.com) akan lebih banyak membahas ditingkat *usable, intuitive & persuasif*. jadi jika anda ingin mencari traffic lebih banyak atau belajar mendesain secara estetika anda tidak akan mendapatkannya disini. ilmu yang akan dibawakan bisa diterapkan untuk segala bisnis bahkan jika anda penjual offline sekalipun karena berisikan konten teori yang bersifat umum yang bisa kamu adaptasi menjadi taktik untuk bisnis anda.
+di [belajarkonversi.com](https://belajarkonversi.com) akan lebih banyak membahas ditingkat *usable, intuitive & persuasif*. jadi jika anda ingin mencari traffic lebih banyak atau belajar mendesain secara estetika anda tidak akan mendapatkannya disini. ilmu yang akan dibawakan bisa diterapkan untuk segala bisnis bahkan jika anda penjual offline sekalipun karena berisikan konten teori yang bersifat umum yang bisa kamu adaptasi menjadi taktik untuk bisnis anda.
