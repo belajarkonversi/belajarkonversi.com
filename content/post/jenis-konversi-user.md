@@ -39,12 +39,12 @@ Secara definisi konversi, konversi adalah perubahan dari satu bentuk (rupa, dan 
 
 Pada tahap ini, target konsumen anda masih belum mengetahui eksistensi keberadaan bisnis anda atau yang sering disebut dalam dunia marketing sebagai Cold leads. tujuan di tahap ini untuk menciptakan kesadaran user akan keberadaan anda dan menarik konsumen ke dalam situs anda. ada 3 cara untuk menciptakan pengunjung situs anda :
 
-- Paid Traffic, Menciptakan pengunjung dengan cara berbayar, seperti contoh menggunakan google ads, facebook ads atau penyedia iklan lain.
-- Owned Media, Menggunakan konten yang dikelola oleh pihak sendiri. contoh owned media bisa berupa
+- **Paid Traffic**, Menciptakan pengunjung dengan cara berbayar, seperti contoh menggunakan google ads, facebook ads atau penyedia iklan lain.
+- **Owned Media**, Menggunakan konten yang dikelola oleh pihak sendiri. contoh owned media bisa berupa
     - konten blog untuk masuk ke persaingan mesin pencari google.
     - konten video youtube,
     - Konten di sosial media.
-- Earned Media, Bagaimana orang lain membicarakan anda, apakah bisnis anda ramai dibicarakan oleh netizen. kalau dalam istilah orang Indonesia “mulut ke mulut”.
+- **Earned Media**, Bagaimana orang lain membicarakan anda, apakah bisnis anda ramai dibicarakan oleh netizen. kalau dalam istilah orang Indonesia “mulut ke mulut”.
 
 untuk mengukur kesuksesan anda pada tahap ini anda dapat menggunakan matrik
 
