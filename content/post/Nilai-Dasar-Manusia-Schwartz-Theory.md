@@ -37,7 +37,7 @@ Dasar dari sebuah transaksi adalah pertukaran nilai dan mata uang berfungsi menj
 
 Sebuah konversi tergantung bagaimana mereka menilai produk/jasa yang anda tawarkan. bahkan jika anda memberikan penawaran gratis sekalipun tetap ada potensi tidak menciptakan nilai dimata mereka. contoh, register akun di situs **X** mendapatkan ebook gratis. Walaupun anda menulis gratis user tetap melakukan pertimbangan nilai. upaya mereka mengisi data, mengirimkan data email apakah nilainya sudah sebanding atau belum dengan ebook yang akan didapat. Proses ini sering kita sebut dengan benefit-cost ratio, dan ini terjadi sangat cepat bahkan sering kali tanpa kita sadari.
 
-Setiap manusia memiliki nilai dasar yang berbeda beda yang dikenal dengan *the Schwartz Theory of Basic Values*, penelitian ini dibuat oleh Schwartz, 1992; Smith & Schwartz, 1997. Telah diuji di 82 negara dengan perbedaan budaya. dari hasil penelitian Schwartz mengidentifikasi sepuluh jenis nilai yang berbeda secara motivasi dan menentukan hubungan diantara jenis nilai, dimana yang berdampingan dan bertolak belakang.
+Setiap manusia memiliki nilai dasar yang berbeda beda yang dikenal dengan *the Schwartz Theory of Basic Values*, penelitian ini dibuat oleh Schwartz, 1992; Smith & Schwartz, 1997. Telah diuji di 82 negara dengan perbedaan budaya. dari hasil penelitian Schwartz mengidentifikasi sepuluh jenis nilai yang berbeda secara motivasi dan menentukan hubungan diantara jenis nilai.
 
 ## **Konsepsi Nilai**
 *Theory of Basic Values* (Schwartz, 1992, 2006a) mengadopsi konsepsi nilai yang menentukan enam fitur utama yang tersirat dalam tulisan-tulisan banyak ahli teori:
@@ -57,7 +57,7 @@ Nilai untuk mengevaluasi tindakan, kebijakan, orang, barang dan peristiwa. Orang
 ### **Nilai Berdasarkan Kepetingan** 
 Nilai-nilai masyarakat membentuk sebuah sistem prioritas. contoh Seorang anak harus sekolah. anak anda harus sarjana jika mau dianggap sebagai orang tua yang sukses. hal tersebut didorong oleh lingkungan sosial sehingga kita menganggap sekolah adalah hal yang penting dan bernilai. Padahal yang terpenting adalah menuntut ilmunya daripada pergi ke sekolah. sekolah adalah produk jasa untuk murid menuntut ilmu. Sekarang bayangkan anda memiliki ilmu namun tidak memiliki jenjang sekolah? bagaimana sosial menilai anda, jadi pembicaraan tetangga, mencari pekerjaan pun menjadi sulit, dll. Jadi sekolah itu menjadi penting bukan hanya karena untuk menuntut ilmu namun juga penting untuk norma sosial. contoh lain, anda masih ingat dengan McD BTS Meal? kolaborasi mc donald bersama boyband BTS yang menjadi viral. Untuk yang bukan pengemar BTS ya itu hanya pembungkus kertas biasa, namun bagi yang para Army, kertas pengbungkusnya itu menjadi sangat bernilai. bernilai karena sebuah atribut bernuansa BTS itu penting untuk menjadi bukti eksistensi terhadap sosial sebagai Army.
 
- ### **Kepentingan Relatif Dari Beberapa Penilaian** 
+### **Kepentingan Relatif Dari Beberapa Penilaian** 
 Sebuah nilai yang biasanya memiliki implikasi untuk lebih dari satu nilai. misal anda menggunakan jam Rolek, dilain anda gunakan untuk menunjukan jam anda gunakan juga untuk meningkatkan status sosial.
 
-(Bersambung)
+(bersambung)
