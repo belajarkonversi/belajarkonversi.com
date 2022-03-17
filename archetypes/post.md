@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-# weight: 1
+# weight: 2
 # aliases: ["/first"]
 author: "Dimas Ibrahim"
 # author: ["Me", "You"] # multiple authors
