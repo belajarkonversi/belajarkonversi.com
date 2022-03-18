@@ -21,11 +21,11 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "/images/cover-jenis-konversi.png" # image path/url
+    alt: "Mengenal jenis konversi user" # alt text
+    caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
@@ -82,7 +82,7 @@ dan matrik pendamping
 
 ## **Merubah Konsumen Menjadi Loyal User**
 
-Di Tahap ini anda sudah memiliki konsumen, dan tujuan di tahap ini adalah membuat konsumen anda tidak hanya menjadi pembeli tetap, tetapi juga promotor yang merekomendasikan merek Anda, dan apa yang Anda tawarkan kepada orang lain. hal yang perlu anda lakukan adalah menyenangkan pelanggan pasca transaksi, berikan pengalaman emotional yang membuat konsumen menjadi loyal dengan anda
+Di Tahap ini anda sudah memiliki konsumen, dan tujuan di tahap ini adalah membuat konsumen anda tidak hanya menjadi pembeli tetap, tetapi juga promotor yang merekomendasikan merek Anda kepada orang lain. hal yang perlu anda lakukan adalah menyenangkan pelanggan pasca transaksi, berikan pengalaman emotional yang membuat konsumen menjadi loyal dengan anda
 
 Ciri - ciri konsumen loyal terhadap anda :
 
