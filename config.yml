@@ -15,6 +15,11 @@ minify:
     disableXML: true
     minifyOutput: true
 
+markup :
+    goldmark :
+        renderer :
+            unsafe : true
+
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Belajar Konversi | Maksimalkan potensi traffic situsmu
@@ -116,6 +121,8 @@ menu:
           name: Dukung Penulis
           url: https://sociabuzz.com/belajarkonversi/donate
           weight: 30
+
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

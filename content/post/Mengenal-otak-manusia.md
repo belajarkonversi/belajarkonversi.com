@@ -1,7 +1,7 @@
 ---
 title: "Mengenal Otak Manusia"
 date: 2022-12-25T16:13:16+07:00
-# weight: 2
+weight: 5
 # aliases: ["/first"]
 author: "Dimas Ibrahim"
 # author: ["Me", "You"] # multiple authors
