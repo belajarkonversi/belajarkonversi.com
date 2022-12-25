@@ -1,7 +1,7 @@
 ---
 title: "Nilai Dasar Manusia, Schwartz Theory"
 date: 2022-02-26T07:41:02+07:00
-weight: 3
+weight: 4
 # aliases: ["/first"]
 author: "Dimas Ibrahim"
 # author: ["Me", "You"] # multiple authors

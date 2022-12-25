@@ -1,7 +1,7 @@
 ---
 title: "Jenis Konversi User"
 date: 2022-02-25T08:26:04+07:00
-weight: 2
+weight: 3
 # aliases: ["/first"]
 author: "Dimas Ibrahim"
 # author: ["Me", "You"] # multiple authors
