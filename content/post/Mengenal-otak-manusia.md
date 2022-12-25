@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Desc Text."
+description: "limbic system dapat digunakan untuk mempengaruhi emosi dan insting konsumen"
 canonicalURL: " "
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -41,6 +41,10 @@ New Brain merupakan bagian otak yang terbaru dari seluruh bagian otak manusia. B
 
 Old Brain dan New Brain bekerja sama dalam kehidupan sehari-hari untuk membantu manusia dalam berinteraksi dengan lingkungan sekitarnya. Old Brain membantu manusia untuk merespon cepat terhadap situasi yang mengancam atau membahayakan, sementara New Brain membantu manusia untuk memahami situasi tersebut dan mengambil keputusan yang tepat.
 
+
+![Otak Manusia](/images/otak-manusia2.jpg#center)
+*The Major Structures in the Human Brain. [(sumber)](https://opentextbc.ca/introductiontopsychology/chapter/3-2-our-brains-control-our-thoughts-feelings-and-behavior/)*
+
 ## Limbic System
 Limbic system adalah sebuah sistem di dalam otak yang terdiri dari beberapa bagian otak yang bertanggung jawab untuk mengatur respon emosional dan instingtif. Sistem ini terletak di tengah-tengah otak dan terdiri dari beberapa bagian otak, seperti amygdala, hippocampus, dan septum.
 
@@ -51,6 +55,17 @@ Dalam marketing, limbic system dapat digunakan untuk mempengaruhi emosi dan inst
 Respon yang diterima manusia dapat berbeda beda sesuai bagaimana limbic systemnya menerima. Dr. Georg Häusel profesor dari German membuat limbic map untuk memetakan nilai dasar manusia, motivasi dan keinginan:
 
 ![limbic map](/images/limbic-map.jpg#center)
+*Limbic Map. [(sumber)](https://nymphenburg.de/limbic-map.html)*
+
+Ia menyusun emosi berdasarkan tiga kategori:
+
+**Stimulant** - emosi yang bersenang-senang seperti kreativitas, keingintahuan, kesenangan, kegembiraan, dan humor
+
+**Dominance** - tata tertib dan disiplin, mencapai status atau posisi di atas orang lain
+
+**Balance** - istilah yang terkait dengan keamanan seperti kepercayaan, persahabatan, loyalitas, dan harmonisasi 
+
+dalam limbic map terdapat 3 kategori besar dan 7 tipe limbic. Hal tersebut memiliki kesamaan seperti yang dikemukakan oleh Schwatz Teory. Untuk mempelajari Limbic map kamu bisa membaca didalam e-book ini [***Nyphemburg’s white paper on the technique***](http://www.procarton.com/files/file_manager/press_0109/limbic_english.pdf) 
 
 
 
@@ -62,6 +77,8 @@ Sistem kepikiran yang cepat disebut juga sistem kepikiran intuisi, yang merupaka
 
 Buku ini menjelaskan bagaimana kedua sistem kepikiran tersebut bekerja secara bersama-sama dan bagaimana mereka mempengaruhi keputusan yang kita ambil. Buku ini juga memberikan beberapa tips untuk mengoptimalkan sistem kepikiran yang lambat, sehingga kita dapat mengambil keputusan yang lebih baik dan lebih tepat.
 
+![Thingking fast slow](/images/fast-slow.png#center)
+
 ### Thinking Fast
 Thinking fast atau sistem kepikiran yang cepat adalah sistem kepikiran yang bertindak secara instingtif dan tidak sadar. Menurut Daniel Kahneman, sistem kepikiran yang cepat ini merupakan sistem kepikiran yang cepat dan efisien dalam memproses informasi, tetapi juga mudah terpengaruh oleh emosi dan bias.
 
@@ -71,3 +88,4 @@ Sistem kepikiran yang cepat dapat digunakan untuk menangkap perhatian konsumen d
 Thinking slow atau sistem kepikiran yang lambat adalah sistem kepikiran yang bertindak secara rasional dan sadar. Menurut Daniel Kahneman, sistem kepikiran yang lambat ini merupakan sistem kepikiran yang lebih lambat dan membutuhkan lebih banyak energi, tetapi lebih akurat dalam mengambil keputusan.
 
 Sistem kepikiran yang lambat dapat digunakan untuk membuat keputusan yang lebih tepat dan rasional. Contohnya, sebuah perusahaan dapat menggunakan sistem kepikiran yang lambat untuk menganalisis data pasar dan mengetahui kebutuhan konsumen secara lebih detail sebelum mengeluarkan produk baru. Perusahaan juga dapat menggunakan sistem kepikiran yang lambat untuk membuat keputusan yang rasional dalam menentukan harga produk, strategi pemasaran, dan lainnya.
+

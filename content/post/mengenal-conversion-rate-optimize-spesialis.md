@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Desc Text."
+description: "Skill yang dibutuhkan untuk menjadi CRO Spesialis"
 canonicalURL: " "
 disableHLJS: true # to disable highlightjs
 disableShare: false
