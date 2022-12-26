@@ -22,10 +22,10 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
     image: "/images/1.png" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    alt: "CRO Spesialist" # alt text
+    caption: "Skill yang dibutuhkan untuk menjadi CRO Spesialis" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text

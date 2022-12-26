@@ -22,10 +22,10 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
     image: "/images/6.png" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    alt: "Alasan dan Emosi dalam Kepribadian Manusia" # alt text
+    caption: "reason dan emotion saling terkait dan membentuk kepribadian seseorang secara keseluruhan" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text

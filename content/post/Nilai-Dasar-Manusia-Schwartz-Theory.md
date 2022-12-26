@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 cover:
     image: "/images/4.png" # image path/url
     alt: "Nilai dasar manusia" # alt text
-    caption: "" # display caption under cover
+    caption: "Setiap manusia memiliki cara menilai yang berbeda beda, teori ini ditemukan oleh Schawatz" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
