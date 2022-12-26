@@ -21,7 +21,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
-    image: "/images/cover-jenis-konversi.png" # image path/url
+    image: "/images/3.png" # image path/url
     alt: "Mengenal jenis konversi user" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true

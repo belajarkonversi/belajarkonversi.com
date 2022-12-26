@@ -21,7 +21,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
-    image: "/images/cover-nilai-dasar.png" # image path/url
+    image: "/images/4.png" # image path/url
     alt: "Nilai dasar manusia" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true

@@ -9,7 +9,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: true
-comments: false
+comments: true
 description: "Skill yang dibutuhkan untuk menjadi CRO Spesialis"
 canonicalURL: " "
 disableHLJS: true # to disable highlightjs
@@ -21,7 +21,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "/images/1.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -33,7 +33,7 @@ editPost:
 ---
 <br><br>
 
-Conversion rate optimization (CRO) specialist adalah seorang profesional yang bertanggung jawab untuk meningkatkan tingkat konversi suatu website atau aplikasi. Mereka melakukan analisis data dan menguji ide-ide untuk meningkatkan tingkat konversi, seperti meningkatkan tingkat klik tombol "Beli Sekarang", meningkatkan jumlah register user atau meningkatkan average order value(AOV).
+Conversion rate optimization (CRO) specialist adalah seorang profesional yang bertanggung jawab untuk meningkatkan tingkat konversi suatu website atau aplikasi. Mereka melakukan analisis data dan menguji ide-ide untuk meningkatkan tingkat konversi, seperti meningkatkan tingkat klik tombol "Beli Sekarang", meningkatkan jumlah register user atau meningkatkan average order value (AOV).
 
 Apakah anda pernah melihat lowongan pekerjaan CRO Spesialist di Indonesia? jujur saja saya baru melihat 1 lowongan kerja sejauh ini. Padahal hampir semua bisnis online menginginkan konversi situsnya baik. Di Indonesia tanggung jawab ini diembankan kepada Produk Manager, UX Designer, Marketing tetapi biasanya mereka hanya fokus kepada medan perangnya masing masing. Misal tim Marketing hanya berfokus meningkatkan conversion rate pada iklan, SEM agar iklannya di klik. Setelah user masuk kedalam situs proses konversi user untuk menjadi naik level sudah menjadi tugas seorang Produk manager dan UX Designer. 
 
@@ -66,6 +66,6 @@ Untuk menjadi seorang spesialis CRO yang sukses, ada beberapa keterampilan yang 
 
 Kunci CRO Spesialis adalah membangun komunikasi yang persuasif, baik dengan konten copywriting, Visual sehingga dapat mempengaruhi manusia bertindak. Neuromarketing dapat memainkan peran penting bagi seorang spesialis CRO karena dapat membantu mengerti bagaimana orang membuat keputusan pembelian dan mengelola tingkah laku pembelian. Dengan mengetahui faktor-faktor yang mempengaruhi keputusan pembelian, seorang spesialis CRO dapat mengembangkan strategi pemasaran yang lebih efektif dan design yang meningkatkan conversion rate.
 
-Faktanya otak manusia mengambil keputusan dengan secara sadar(conscious mind) hanya 10% dan 90% secara tidak sadar(subconscious mind). maka dari itu sangat penting seorang CRO Spesialis mempelajari cara manusia mengambil keputusan, dengan memahami hal tersebut kamu dapat membuat sebuah komunikasi, strategi, design untuk meningkatkan konversi rate. sayangnya data conscious mind tidak ada di google analitic jadi kamu harus memiliki dasar ilmunya dan melakukan percobaan.
+Faktanya otak manusia mengambil keputusan dengan secara sadar(conscious mind) hanya 10% dan 90% secara tidak sadar (subconscious mind). maka dari itu sangat penting seorang CRO Spesialis mempelajari cara manusia mengambil keputusan, dengan memahami hal tersebut kamu dapat membuat sebuah komunikasi, strategi, design untuk meningkatkan konversi rate. sayangnya data conscious mind tidak ada di google analitic jadi kamu harus memiliki dasar ilmunya dan melakukan percobaan.
 
 ![otak manusia dalam mengambil keputusan](/images/otak-manusia.png#center)

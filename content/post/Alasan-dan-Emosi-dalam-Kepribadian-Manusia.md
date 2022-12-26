@@ -9,7 +9,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: true
-comments: false
+comments: true
 description: "Dua komponen ini saling terkait dan membentuk kepribadian seseorang secara keseluruhan"
 canonicalURL: " "
 disableHLJS: true # to disable highlightjs
@@ -21,7 +21,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "/images/6.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
