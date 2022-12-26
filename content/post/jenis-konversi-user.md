@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 cover:
     image: "/images/3.png" # image path/url
     alt: " " # alt text
-    caption: "Setiap jenis konversi user pasti memiliki tujuan, kenali jenis konversi dan bagaimana mengukurnya" # display caption under cover
+    caption: " " # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
