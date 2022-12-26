@@ -69,5 +69,3 @@ fields:
   - type: boolean
     name: hidden
     label: hidden
-pages:
-- content/post/coba-dari-forestyrt.md
