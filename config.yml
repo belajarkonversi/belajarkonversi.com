@@ -23,7 +23,7 @@ markup :
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Belajar Konversi | Optimasi Conversion Rate Situs Kamu
-    description: "Optimasi Conversion Rate Situs Kamu dengan menjadi Conversion Rate Optimize Spesialis"
+    description: "Dengan teknik conversion rate optimization, kamu akan meningkatkan tingkat konversi situs Anda sehingga meningkatkan pendapatan bisnis Anda."
     keywords: [Blog, Portfolio, PaperMod]
     author: Dimas Ibrahim
     # author: ["Me", "You"] # multiple authors
