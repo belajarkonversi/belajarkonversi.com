@@ -22,7 +22,7 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
     image: "/images/5.png" # image path/url
-    alt: "mengenal atonomi otak manusia" # alt text
+    alt: " " # alt text
     caption: "limbic system dapat digunakan untuk mempengaruhi emosi dan insting konsumen" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page

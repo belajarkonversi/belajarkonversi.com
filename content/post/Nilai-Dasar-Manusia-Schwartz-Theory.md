@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 cover:
     image: "/images/4.png" # image path/url
     alt: "Nilai dasar manusia" # alt text
-    caption: "Setiap manusia memiliki cara menilai yang berbeda beda, teori ini ditemukan oleh Schawatz" # display caption under cover
+    caption: " " # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
@@ -31,8 +31,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-<br><br>
- 
+<br>
 Dasar dari sebuah transaksi adalah pertukaran nilai dan mata uang berfungsi menjadi satuan standar untuk mengukur nilai. ketika anda membeli barang dengan uang sebenarnya anda menukarkan nilai pada lembaran rupiah dengan nilai dari produk yang anda beli. selembar uang 10.000 Rupiah akan tetap bernilai 10.000 Rupiah di mata siapapun, Tetapi nilai dari produk bisa berbeda berdasarkan bagaimana orang lain menilainya.
  
 Sebuah konversi tergantung bagaimana mereka menilai produk/jasa yang anda tawarkan. bahkan jika anda memberikan penawaran gratis sekalipun tetap ada potensi tidak menciptakan nilai dimata mereka. contoh, register akun di situs **X** mendapatkan ebook gratis. Walaupun anda menulis gratis user tetap melakukan pertimbangan nilai. upaya mereka mengisi data, mengirimkan data email apakah nilainya sudah sebanding atau belum dengan ebook yang akan didapat. Proses ini sering kita sebut dengan benefit-cost ratio, dan ini terjadi sangat cepat bahkan sering kali tanpa kita sadari.

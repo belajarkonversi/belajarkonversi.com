@@ -22,7 +22,7 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
     image: "/images/1.png" # image path/url
-    alt: "CRO Spesialist" # alt text
+    alt: " " # alt text
     caption: "Skill yang dibutuhkan untuk menjadi CRO Spesialis" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
@@ -31,8 +31,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-<br><br>
-
+<br>
 Conversion rate optimization (CRO) specialist adalah seorang profesional yang bertanggung jawab untuk meningkatkan tingkat konversi suatu website atau aplikasi. Mereka melakukan analisis data dan menguji ide-ide untuk meningkatkan tingkat konversi, seperti meningkatkan tingkat klik tombol "Beli Sekarang", meningkatkan jumlah register user atau meningkatkan average order value (AOV).
 
 Apakah anda pernah melihat lowongan pekerjaan CRO Spesialist di Indonesia? jujur saja saya baru melihat 1 lowongan kerja sejauh ini. Padahal hampir semua bisnis online menginginkan konversi situsnya baik. Di Indonesia tanggung jawab ini diembankan kepada Produk Manager, UX Designer, Marketing tetapi biasanya mereka hanya fokus kepada medan perangnya masing masing. Misal tim Marketing hanya berfokus meningkatkan conversion rate pada iklan, SEM agar iklannya di klik. Setelah user masuk kedalam situs proses konversi user untuk menjadi naik level sudah menjadi tugas seorang Produk manager dan UX Designer. 
