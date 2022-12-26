@@ -1,6 +1,6 @@
 baseURL: https://belajarkonversi.com
 languageCode: id-ID
-title: Belajar Konversi
+title: Belajar Konversi | Optimasi Conversion Rate Situs Kamu
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -22,12 +22,12 @@ markup :
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Belajar Konversi | Maksimalkan potensi traffic situsmu
-    description: "Tempat belajar memaksimalkan potensi traffic situs menjadi konsumen"
+    title: Belajar Konversi | Optimasi Conversion Rate Situs Kamu
+    description: "Optimasi Conversion Rate Situs Kamu dengan menjadi Conversion Rate Optimize Spesialis"
     keywords: [Blog, Portfolio, PaperMod]
     author: Dimas Ibrahim
     # author: ["Me", "You"] # multiple authors
-    images: ["<link or path of image for opengraph, twitter-cards>"]
+    images: ["https://belajarkonversi.com/images/bktumnail.png"]
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
@@ -48,11 +48,11 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "https://belajarkonversi.com/images/belajarkonversi.ico"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
+        favicon: "https://belajarkonversi.com/images/bk.ico"
+        favicon16x16: "https://belajarkonversi.com/images/bk16.ico"
+        favicon32x32: "https://belajarkonversi.com/images/bk.ico"
+        apple_touch_icon: "https://belajarkonversi.com/images/bk.ico"
+        safari_pinned_tab: "https://belajarkonversi.com/images/bk.ico"
 
     label:
         text: "BelajarKonversi"
