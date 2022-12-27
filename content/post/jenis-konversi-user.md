@@ -97,3 +97,20 @@ Matrik yang bisa diukur di tahap ini adalah
 
 - Customer Satisfaction
 - Net Promoter Score (NPS)
+
+## **Cara Mengukur Conversion Rate (CR)**
+
+Conversion rate adalah prosentase dari total pengunjung yang melakukan tindakan yang diinginkan oleh perusahaan, seperti membeli produk atau mengisi formulir kontak. Cara untuk menghitung conversion rate adalah dengan mengalikan jumlah konversi dengan jumlah pengunjung dan kemudian mengalikan hasilnya dengan 100%.
+
+Untuk menghitung conversion rate, pertama-tama Anda harus menentukan tindakan yang diinginkan oleh perusahaan. Misalnya, jika Anda ingin meningkatkan jumlah formulir kontak yang terisi, tindakan yang diinginkan adalah mengisi formulir kontak. Kemudian, Anda perlu mengumpulkan data tentang jumlah pengunjung website atau aplikasi Anda dan jumlah konversi (tindakan yang diinginkan) yang terjadi.
+
+Setelah Anda memiliki data tersebut, Anda dapat menghitung conversion rate dengan menggunakan rumus berikut:
+
+Conversion rate = (Jumlah konversi / Jumlah pengunjung) x 100%
+
+Contoh:
+Jika website Anda memiliki 1000 pengunjung dan 50 pendaftar baru, maka conversion rate website Anda adalah:
+
+Conversion rate = (50 konversi / 1000 pengunjung) x 100% = 5%
+
+Itu adalah cara sederhana untuk menghitung conversion rate. Ingat bahwa conversion rate dapat diukur untuk berbagai tindakan yang diinginkan, seperti mengklik tombol "Beli Sekarang", mendaftar untuk newsletter, atau menonton video. Jadi, pastikan Anda menentukan tindakan yang diinginkan dengan tepat sebelum menghitung conversion rate.
