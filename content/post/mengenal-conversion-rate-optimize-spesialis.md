@@ -21,8 +21,8 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
-    image: "/images/1.png" # image path/url
-    alt: " " # alt text
+    image: "/images/mengenal-conversion-rate-optimize-spesialis.png" # image path/url
+    alt: "Mengenal Conversion Rate Optimize Spesialis" # alt text
     caption: " " # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page

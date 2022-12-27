@@ -1,5 +1,5 @@
 ---
-title: "Pendahuluan Konversi User"
+title: "Mengenal Konversi dan Fase Konversi User"
 date: 2022-02-24T06:55:25+07:00
 weight: 2
 # aliases: ["/first"]
@@ -21,7 +21,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
-    image: "/images/2.png" # image path/url
+    image: "/images/pendahuluan-konversi-user.png" # image path/url
     alt: "Pendahuluan konversi" # alt text
     caption: " " # display caption under cover
     relative: false # when using page bundles set this to true

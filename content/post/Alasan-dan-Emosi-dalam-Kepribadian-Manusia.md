@@ -21,7 +21,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
-    image: "/images/6.png" # image path/url
+    image: "/images/alasan-dan-emosi-dalam-kepribadian-manusia.png" # image path/url
     alt: "reason dan emotion saling terkait dan membentuk kepribadian seseorang secara keseluruhan" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true

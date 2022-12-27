@@ -1,5 +1,5 @@
 ---
-title: "Mengenal Otak Manusia"
+title: "Mengenal Cara Kerja Otak Manusia"
 date: 2022-12-25T16:13:16+07:00
 weight: 5
 # aliases: ["/first"]
@@ -21,11 +21,11 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
-    image: "/images/5.png" # image path/url
+    image: "/images/mengenal-otak-manusia.png" # image path/url
     alt: "limbic system dapat digunakan untuk mempengaruhi emosi dan insting konsumen" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
