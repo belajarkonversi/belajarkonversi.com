@@ -69,8 +69,6 @@ Mandiri dalam *berfikir*, mandiri dalam mengambil tindakan, mencipta dan mengeks
  
 Nilai-nilai Self-Direction menekankan pada kebebasan individu untuk memilih dan menentukan arah hidupnya sendiri. Menurut teori ini, setiap individu memiliki kemampuan dan kekuatan untuk memahami dan mengendalikan hidupnya sendiri, serta membuat keputusan yang dianggap terbaik untuk dirinya.
 
-Self-direction merupakan faktor penting dalam menentukan tingkat kepuasan hidup seseorang, karena orang yang memiliki kontrol atas hidupnya sendiri merasa lebih bahagia dan merasa memiliki tujuan yang jelas dalam hidupnya. Selain itu, self-direction juga dapat meningkatkan rasa percaya diri seseorang dan membantu dalam mencapai tujuan yang diinginkan.
-
 ***Contohnya,*** menawarkan produk atau layanan yang memberikan kebebasan bagi pelanggan untuk memilih dan menentukan cara penggunaannya sendiri sesuai dengan keinginan dan kebutuhannya. Misalnya, perusahaan yang menjual paket liburan yang memberikan opsi pilihan tempat wisata, akomodasi, dan jadwal kegiatan yang dapat disesuaikan sesuai dengan keinginan pelanggan.
  
 ### Stimulation
@@ -78,8 +76,6 @@ Self-direction merupakan faktor penting dalam menentukan tingkat kepuasan hidup 
 Kegembiraan, kebaruan, dan tantangan dalam hidup.
  
 Stimulation menekankan pada kebutuhan individu akan tantangan dan variasi dalam kehidupan sehari-hari. Menurut teori ini, setiap individu memiliki kebutuhan akan pengalaman yang menantang dan menyenangkan yang dapat memberikan rasa terstimulasi dan mempertahankan minat dan keingintahuan mereka.
-
-Stimulation juga dapat membantu individu dalam mengembangkan kemampuan dan keterampilan yang baru, serta memberikan rasa terpuaskan dan kepuasan hidup yang lebih tinggi. Selain itu, stimulation juga dapat membantu dalam menghilangkan rasa jenuh dan bosan dalam kehidupan sehari-hari.
 
 ***Contohnya,*** menggunakan iklan yang menantang dan menyenangkan untuk meningkatkan minat dan keingintahuan konsumen terhadap produk atau jasa yang ditawarkan. Seperti:
 
@@ -94,8 +90,6 @@ Kesenangan atau kepuasan indrawi untuk diri sendiri.
  
 hedonisme menekankan pada kebutuhan individu akan kesenangan dan kepuasan dalam kehidupan sehari-hari. Menurut teori ini, setiap individu memiliki keinginan untuk mencari dan meraih kepuasan pribadi yang dianggap terbaik bagi diri mereka sendiri.
 
-Hedonism dapat membantu individu dalam mencari kepuasan dalam kehidupan sehari-hari dengan cara yang sesuai dengan keinginan dan kebutuhannya sendiri. Selain itu, hedonism juga dapat membantu dalam meningkatkan rasa percaya diri seseorang dan memberikan rasa bahagia dan terpuaskan dalam hidupnya.
-
 ***Contohnya,*** sebuah perusahaan makanan menggunakan iklan yang memperlihatkan orang-orang yang sedang makan makanan tersebut dengan wajah yang terlihat sangat senang dan terpuaskan. Iklan tersebut menggunakan tagline "Makanan yang akan membuat hari Anda lebih bahagia" untuk menarik perhatian konsumen dan membuat mereka merasa bahwa produk tersebut dapat memberikan kepuasan pribadi bagi mereka.
 
 ### Achievement
@@ -103,8 +97,6 @@ Hedonism dapat membantu individu dalam mencari kepuasan dalam kehidupan sehari-h
 Keberhasilan pribadi melalui pencapaian kompetensi sesuai dengan standar.
  
 menekankan pada keinginan individu untuk mencapai prestasi yang terbaik bagi diri mereka sendiri. Menurut teori ini, setiap individu memiliki keinginan untuk berhasil dan merasa berguna bagi orang lain dengan cara yang sesuai dengan keinginan dan kebutuhannya sendiri.
-
-Achievement dapat membantu individu dalam meningkatkan rasa percaya diri dan merasa terpuaskan dalam kehidupan sehari-hari. Selain itu, achievement juga dapat membantu individu dalam mengembangkan kemampuan dan keterampilan yang baru, serta memberikan rasa terstimulasi dan menyenangkan dalam hidupnya.
 
 ***Contohnya,*** sebuah perusahaan telekomunikasi dapat menciptakan iklan yang menampilkan produk smartphone mereka sebagai alat yang membantu pelanggan untuk terhubung dengan orang lain secara efektif dan efisien, sehingga membantu pelanggan untuk mencapai kebutuhan kehidupan menjadi lebih mudah.
 
@@ -114,8 +106,6 @@ Status sosial dan prestise, kontrol atau dominasi atas orang-orang dan sumber da
  
 Power menekankan pada keinginan individu untuk memiliki pengaruh dan kontrol terhadap lingkungannya. Menurut teori ini, setiap individu memiliki keinginan untuk memiliki kekuasaan dan kekuatan untuk mempengaruhi orang lain dan situasi yang dihadapinya.
 
-Power dapat membantu individu dalam meningkatkan rasa percaya diri dan kekuatan diri, serta memberikan rasa terpuaskan dan menyenangkan dalam kehidupan sehari-hari. Selain itu, power juga dapat membantu individu dalam meningkatkan keterampilan dan kemampuan yang diperlukan untuk mempengaruhi orang lain dan situasi yang dihadapinya.
-
 ***Contohnya,*** menggunakan iklan yang menekankan pada bagaimana produk atau layanan tersebut dapat memberikan pengaruh dan kontrol terhadap kehidupan konsumen. Misalnya, iklan untuk produk kecantikan yang menunjukkan bahwa produk tersebut dapat membuat wajah konsumen terlihat lebih muda dan cantik, atau iklan untuk produk otomotif yang menunjukkan bahwa produk tersebut dapat memberikan kecepatan dan performa yang lebih baik.
  
 ### Security
@@ -123,8 +113,6 @@ Power dapat membantu individu dalam meningkatkan rasa percaya diri dan kekuatan 
 Keamanan, harmoni, dan stabilitas masyarakat, hubungan, dan diri sendiri.
  
 Security menekankan pada keinginan individu akan rasa aman dan terlindungi dalam kehidupan sehari-hari. Menurut teori ini, setiap individu memiliki keinginan untuk merasa terlindungi dari ancaman atau bahaya yang dapat mengganggu keamanan dan kenyamanan hidupnya.
-
-Security dapat membantu individu dalam meningkatkan rasa nyaman dan terlindungi dalam kehidupan sehari-hari, serta memberikan rasa kedamaian dan ketenangan dalam hidupnya. Selain itu, security juga dapat membantu individu dalam menghadapi tantangan dan ancaman yang dihadapinya dengan cara yang lebih efektif.
 
 ***Contohnya,*** Produk-produk asuransi biasanya dijual dengan menekankan pada keamanan dan perlindungan yang diberikan terhadap kebutuhan finansial seseorang atau keluarga dalam menghadapi ancaman atau bahaya yang mungkin terjadi dalam kehidupan sehari-hari, seperti kecelakaan, sakit, atau kematian. Dengan demikian, produk-produk asuransi ini dianggap sebagai solusi yang dapat memberikan rasa aman dan terlindungi bagi konsumen yang membelinya.
 
@@ -134,8 +122,6 @@ Rasa hormat, komitmen, dan penerimaan kebiasaan dan gagasan yang diberikan oleh 
  
 Tradition menekankan pada kebutuhan individu akan keterikatan dan kesetiaan terhadap nilai-nilai, norma, dan tradisi yang dianggap penting dalam kehidupan sehari-hari. Menurut teori ini, setiap individu memiliki keinginan untuk terikat dan setia pada nilai-nilai, norma, dan tradisi yang dianggap penting bagi diri mereka sendiri maupun bagi orang lain dalam kelompok atau masyarakat di mana mereka hidup.
 
-Tradition dapat membantu individu dalam menciptakan stabilitas dan konsistensi dalam kehidupan sehari-hari, serta memberikan rasa terikat dan merasa bagian dari suatu kelompok atau masyarakat. Selain itu, tradition juga dapat membantu dalam mempertahankan nilai-nilai dan norma yang dianggap penting bagi kelompok atau masyarakat tersebut.
-
 ***Contohnya,*** sebuah perusahaan memanfaatkan nilai-nilai, norma, dan tradisi yang dianggap penting bagi target marketnya untuk menjual produk atau jasa. Misalnya, sebuah perusahaan makanan yang menjual produk makanan khas suatu daerah yang dianggap memiliki tradition yang kuat, dapat memanfaatkan tradition tersebut dalam marketingnya dengan menggunakan slogan atau kampanye yang terkait dengan tradition tersebut.
  
 ### Conformity
@@ -143,8 +129,6 @@ Tradition dapat membantu individu dalam menciptakan stabilitas dan konsistensi d
 ketaatan, menghormati orang tua dan yang lebih tua, disiplin diri, kesopanan
  
 Conformity menekankan  menekankan pada keinginan individu untuk menyesuaikan diri dengan norma dan nilai-nilai yang ada dalam masyarakat. Menurut teori ini, setiap individu memiliki keinginan untuk terintegrasi dengan masyarakat dan merasa diakui dan diterima oleh orang lain.
-
-Conformity dapat membantu individu dalam memahami dan menghargai norma dan nilai-nilai yang ada dalam masyarakat, serta membantu dalam membangun hubungan yang harmonis dengan orang lain. Selain itu, conformity juga dapat membantu dalam menghindari konflik dengan orang lain dan mempertahankan stabilitas sosial dalam masyarakat.
 
 ***Contohnya,*** conformity dapat digunakan sebagai strategi untuk mempengaruhi keputusan pembelian konsumen. Salah satu contohnya adalah dengan menggunakan taktik referensi grup, yaitu dengan menunjukkan bahwa orang lain sudah menggunakan atau membeli produk tersebut. Dengan demikian, konsumen akan merasa terpengaruh untuk membeli produk tersebut karena merasa ingin terintegrasi dengan orang lain dan merasa diakui dan diterima oleh orang lain.
 
@@ -156,8 +140,6 @@ Nilai-nilai Benevolence berasal dari kebutuhan dasar untuk kelancaran fungsi kel
  
 Benevolence  menekankan pada keinginan individu untuk memberikan bantuan dan dukungan kepada orang lain dalam kehidupan sehari-hari. Menurut teori ini, setiap individu memiliki keinginan untuk membantu orang lain dengan cara yang sesuai dengan keinginan dan kebutuhannya sendiri.
 
-Benevolence dapat membantu individu dalam merasa memiliki arti dan tujuan dalam hidupnya, serta membantu dalam meningkatkan rasa kebahagiaan dan terpuaskan dalam hidupnya. Selain itu, benevolence juga dapat membantu dalam meningkatkan rasa percaya diri dan membangun hubungan yang positif dengan orang lain.
-
 ***Contohnya,*** menggunakan strategi corporate social responsibility (CSR). CSR merupakan strategi yang menekankan pada tanggung jawab sosial perusahaan terhadap lingkungan, masyarakat, dan stakeholder yang dianggap penting bagi perusahaan.
 
 Dengan menggunakan strategi CSR, perusahaan dapat memperlihatkan keinginan untuk memberikan bantuan dan dukungan kepada masyarakat dan lingkungan, serta membangun citra positif di mata pelanggan dan stakeholder. Contohnya, perusahaan dapat menjalankan program kemanusiaan seperti menyumbangkan dana untuk bencana alam atau menjadi penyedia donasi bagi kelompok sosial tertentu.
@@ -168,11 +150,16 @@ Pengertian, menghargai, toleransi, dan melindungi kesejahteraan seluruh rakyat d
 
 universalism menekankan pada keinginan individu untuk memperlakukan orang lain secara adil dan sama, serta mempertahankan hak-hak asasi manusia yang sama bagi semua orang. Menurut teori ini, setiap individu memiliki keinginan untuk memperlakukan orang lain secara tidak diskriminatif, serta menghargai perbedaan dan keberagaman yang ada di masyarakat.
 
-Universalism juga dapat membantu individu dalam menghargai hak-hak asasi manusia yang sama bagi semua orang, serta membantu dalam meningkatkan rasa persaudaraan dan keadilan sosial di masyarakat. Selain itu, universalism juga dapat membantu dalam membangun hubungan yang harmonis dan saling menghargai antara individu dengan individu yang berbeda.
-
 ***Contohnya,*** perusahaan juga dapat mempromosikan produk atau jasa yang mempertahankan hak-hak asasi manusia yang sama bagi semua orang, seperti produk yang tidak merugikan lingkungan atau produk yang dibuat dengan cara yang adil dan tidak merugikan para pekerja yang terlibat dalam proses produksinya.
 
 ## Struktur Dinamis Hubungan Antara Nilai
-Jenis jenis nilai dapat dikelompokan berdasarkan kriteria grafik dibawah ini, dengan ini anda bisa menentukan produk anda cocok untuk tipe orang yang seperti apa dan bagaimana menyesuaikan komunikasi produk anda terhadap segment berdasarkan tipe nilai yang disasar.  
+Jenis jenis nilai dapat dikelompokan berdasarkan kriteria grafik dibawah ini.
 
 ![relasi hubungan nilai dasar manusia schwartz theory](/images/relasi-nilai.png#center)
+
+Ketika nilai dasar manusia digabungkan dengan variabel sikap dan gaya hidup, ini akan membuat segmentasi psikografis yang sering kita sebut dengan Value, Attitude, Lifestyle (VALS).
+
+![Vals](/images/vals.jpg#center)
+*VALS Framework [(sumber)](https://zilkermarketing.com/using-vals-to-find-your-audience/)*
+
+Dengan mengetahui kelompok nilai-nilai individu dan gaya hidup, Kamu dapat menyusun komunikasi ke calon konsumen yang lebih relevan sehingga dapat terlihat lebih bernilai.
