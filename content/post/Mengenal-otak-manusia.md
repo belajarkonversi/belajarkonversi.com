@@ -1,5 +1,5 @@
 ---
-title: "Mengenal Cara Kerja Otak Manusia"
+title: "Mengenal Cara Kerja Otak Manusia Dalam Mengambil Keputusan"
 date: 2022-12-25T16:13:16+07:00
 weight: 5
 # aliases: ["/first"]
