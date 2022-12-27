@@ -111,6 +111,6 @@ Conversion rate = (Jumlah konversi / Jumlah pengunjung) x 100%
 Contoh:
 Jika website Anda memiliki 1000 pengunjung dan 50 pendaftar baru, maka conversion rate website Anda adalah:
 
-Conversion rate = (50 konversi / 1000 pengunjung) x 100% = 5%
+**Conversion rate = (50 konversi / 1000 pengunjung) x 100% = 5%**
 
 Itu adalah cara sederhana untuk menghitung conversion rate. Ingat bahwa conversion rate dapat diukur untuk berbagai tindakan yang diinginkan, seperti mengklik tombol "Beli Sekarang", mendaftar untuk newsletter, atau menonton video. Jadi, pastikan Anda menentukan tindakan yang diinginkan dengan tepat sebelum menghitung conversion rate.
