@@ -9,7 +9,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: true
-comments: false
+comments: true
 description: "limbic system dapat digunakan untuk mempengaruhi emosi dan insting konsumen"
 canonicalURL: " "
 disableHLJS: true # to disable highlightjs
