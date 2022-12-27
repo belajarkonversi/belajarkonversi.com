@@ -1,5 +1,5 @@
 ---
-title: "Alasan dan Emosi dalam Kepribadian Manusia"
+title: "Penyebab dan Emosi dalam Kepribadian Manusia"
 date: 2022-12-25T22:50:28+07:00
 weight: 6
 # aliases: ["/first"]
