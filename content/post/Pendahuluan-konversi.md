@@ -50,7 +50,7 @@ Tingkat konversi tergantung banyak faktor antara lain:
 
 Dalam meningkatkan konversi ada beberapa tingkatan yang bisa dilalui. Anda harus mulai dari yang paling bawah, jika situs anda tidak berfunsi atau tidak bisa diakses maka akan percuma saja anda memikirkan taktik untuk di tingkatan berikutnya.
 
-![Piramida konversi](https://belajarkonversi.com/images/piramida-konversi.png#center)
+![Piramida konversi](/images/piramida-konversi.png#center)
 
 1. **Functional**. situs anda harus dapat digunakan, ketika user berinteraksi tidak ada error yang menyebabkan user berhenti
 2. **Accessible.** User harus dapat mengaksesnya, baik di smartphone, tablet atau desktop. untuk teknis bagaimana membuat situs yang ramah diakses anda bisa melihat di [web accessibility checklist](https://a11yproject.com/checklist.html). jika ini terlalu rumit anda buka situs anda dan pastikan seluruh link dapat ditemukan, atau tombol bisa diklik tanpa terhalangi komponen lain dan bisa diklik oleh ukuran jempol sebesar apapun.
